@@ -1,3 +1,7 @@
 node_modules
 .env
+<<<<<<< HEAD
 __pycache__
+=======
+__pycache__/
+>>>>>>> add my function
