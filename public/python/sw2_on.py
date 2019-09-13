@@ -1,2 +1,2 @@
 from function_fan import apply_action
-apply_action("power")
+apply_action("light")
